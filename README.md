@@ -1,7 +1,11 @@
 Libraries and plugins:
+
 React
+
 Axios
+
 React Chart.js 2
+
 React CSV
 
 
